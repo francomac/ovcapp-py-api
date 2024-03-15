@@ -1,0 +1,22 @@
+
+.react-datepicker__day {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+
+.react-datepicker__day--selected {
+  background-color: #4a90e2;
+  color: #fff;
+}
+
+
+.react-datepicker__day--outside-month {
+  color: #aaa;
+}
+
+
+.react-datepicker__day-name {
+  color: #666;
+  font-family: 'Your Font Family', sans-serif;
+}
